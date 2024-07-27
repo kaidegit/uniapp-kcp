@@ -1,10 +1,10 @@
-# react-native-kcp
+# uniapp-kcp [WIP]
 
-### React Native Implementation of the [KCP Protocol](https://github.com/skywind3000/kcp/blob/master/README.en.md).
+### uniapp Implementation of the [KCP Protocol](https://github.com/skywind3000/kcp/blob/master/README.en.md).
 
 [![JavaScript KCP](https://img.shields.io/badge/Powered_By-KCP-293C81?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)](https://reactnative.dev/docs/environment-setup)
 
-Code from [bruce48x/kcpjs](https://github.com/bruce48x/kcpjs) and [as3long/kcpjs](https://github.com/as3long/kcpjs).
+Code from [bruce48x/kcpjs](https://github.com/bruce48x/kcpjs) , [as3long/kcpjs](https://github.com/as3long/kcpjs) and [koreymadden/react-native-kcp](https://github.com/koreymadden/react-native-kcp).
 
 > Note: The forward error correction (FEC) feature has been removed from the codebase due to the presence of C++ code. Encrytion is also not supported with this package.
 
